@@ -7,7 +7,7 @@ const News = () => {
       <div className={styles.news}>
         <dl>
           <dt>2025.07.06</dt>
-          <dd>更新あり</dd>
+          <dd>変更されるチェック、自動更新</dd>
         </dl>
         <dl>
           <dt>2024.xx.</dt>
